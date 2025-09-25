@@ -186,7 +186,7 @@ params:
 
 enabled: true
 ```
-<img width="538" height="464" alt="image" src="https://github.com/user-attachments/assets/7cdb0888-e322-45f6-8f5d-76e3d08f458d" />
+
 
 
 ## 📌 Step 5. Update Deep Research Agent Profiles
@@ -207,6 +207,7 @@ executor_adapter_names:
   SEARCH: "MemeWhaleTracker"
 
 ```
+<img width="538" height="464" alt="image" src="https://github.com/user-attachments/assets/7cdb0888-e322-45f6-8f5d-76e3d08f458d" />
 
 ## 📌 Step 6. Compose Docker
 ```
