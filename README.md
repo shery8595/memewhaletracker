@@ -12,7 +12,7 @@ This guide explains how to integrate and run it inside the **ROMA** framework.
 4. [Step 4. Register the Agent](#-step-4-register-the-agent)  
 5. [Step 5. Update Deep Research Agent Profiles](#-step-5-update-deep-research-agent-profiles)
 6. [Step 6. Compose Docker](#-step-6-Compose-Docker)
-7. [Step 7. Notes](#-step-7-notes)  
+7. [Step 7. Notes](#-step-7-Notes)  
 
 ---
 
@@ -177,7 +177,7 @@ description: "Tracks predefined Solana meme-wallets and reports the most-traded 
 
 model:
   provider: "litellm"
-  model_id: "openrouter/google/gemini-2.0-flash-exp:free"
+  model_id: "openrouter/x-ai/grok-4-fast:free"
   temperature: 0.35
 
 params:
@@ -212,7 +212,7 @@ docker compose down
 docker compose up -d --build
 ```
 
-## 📌 Step 7. 📝 Notes
+## 📌 Step 7. Notes
 
 If you get empty results, check:
 
