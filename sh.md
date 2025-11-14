@@ -271,8 +271,9 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 
 **Mayank Mahaur**
 - GitHub: [@MAYANK-MAHAUR](https://github.com/MAYANK-MAHAUR)
+
 **Shery**
-- [@shery8595](https://github.com/shery8595)
+- GitHub: [@shery8595](https://github.com/shery8595)
 - Repository: [minecraft-dobbybot](https://github.com/MAYANK-MAHAUR/minecraft-dobbybot)
 
 ## Acknowledgments
