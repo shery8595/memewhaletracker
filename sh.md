@@ -274,6 +274,8 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 
 **Shery**
 - GitHub: [@shery8595](https://github.com/shery8595)
+
+  
 - Repository: [minecraft-dobbybot](https://github.com/MAYANK-MAHAUR/minecraft-dobbybot)
 
 ## Acknowledgments
